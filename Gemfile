@@ -25,6 +25,7 @@ gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 # simple calendar
 gem 'simple_calendar', '~> 2.3'
+gem 'bootstrap-datepicker-rails'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
